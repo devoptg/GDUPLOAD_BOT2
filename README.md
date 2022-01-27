@@ -1,6 +1,6 @@
 # Google Drive Uploader Telegram Bot
 **A Telegram bot to upload files from Telegram or Direct links to Google Drive.**
-- Find it on Telegram as [Google Drive Uploader](https://t.me/gdriveruploadtd_bot)
+- Find it on Telegram as [Google Drive Uploader](https://t.me/devgd_bot)
 
 ## Features
 - [X] Telegram files support.
@@ -93,5 +93,4 @@ python3 -m bot
 - [Shivam Jha](https://github.com/lzzy12) for [Clone Feature](./bot/helpers/gdrive_utils/gDrive.py) from [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
 
 ## Copyright & License
-- Copyright (©) 2021 by [Adnan Ahmad](https://github.com/viperadnan-git)
 - Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](./LICENSE)
